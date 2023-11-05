@@ -1,2 +1,2 @@
 # Providers
-![Alt text](https://imgur.com/a/NSHRXKP "How to ")
+![Alt text](https://i.imgur.com/pEhByiD.png "How to ")
