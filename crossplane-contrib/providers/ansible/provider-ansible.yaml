@@ -1,0 +1,6 @@
+apiVersion: pkg.crossplane.io/v1
+kind: Provider
+metadata:
+  name: crossplanecontrib-provider-ansible
+spec:
+  package: crossplanecontrib/provider-ansible:v0.3.0

@@ -1,0 +1,6 @@
+apiVersion: ansible.crossplane.io/v1alpha1
+kind: ProviderConfig
+metadata:
+  name: ansible-provider-config 
+spec:
+  credentials: [] # No Ansible Resource Creation is required so I left empty

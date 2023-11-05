@@ -1,0 +1,4 @@
+[default]
+aws_access_key_id = AWS_TOP_SECRET_KEY_ID
+aws_secret_access_key = AWS_TOP_SECRET_KEY
+
